@@ -6,7 +6,7 @@ Complete audit and fixes for Solana mainnet integration with Privy embedded wall
 ## 1. Environment Variables - NORMALIZED ✅
 
 ### Client (.env)
-- ✅ `VITE_TREASURY_PUBLIC_KEY` - Treasury public key for client display
+- ✅ `VITE_TREASURY_PUBLIC_KEY` - Treasury public key for client display 
 - ✅ Hardcoded `SOLANA_RPC_URL` to mainnet in code (no env needed)
 - ✅ Removed `TREASURY_PRIVATE_KEY` from client (security)
 
