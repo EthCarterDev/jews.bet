@@ -9,7 +9,7 @@ cd jews-bet
 ```
 
 When prompted:
-- TypeScript? Yes
+- TypeScript? Yes 
 - ESLint? Yes
 - Tailwind CSS? Yes
 - `src/` directory? No
