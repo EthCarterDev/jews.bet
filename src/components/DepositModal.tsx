@@ -8,7 +8,7 @@ import { useAuth } from '../contexts/AuthContext';
 interface DepositModalProps {
   isOpen: boolean;
   onClose: () => void;
-}
+} 
 
 export function DepositModal({ isOpen, onClose }: DepositModalProps) {
   const { user: privyUser } = usePrivy();
